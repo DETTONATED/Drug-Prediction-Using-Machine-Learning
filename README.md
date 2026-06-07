@@ -93,3 +93,4 @@ Aspiring Data Analyst & Machine Learning Enthusiast
 Machine Learning project that predicts suitable drugs for patients using medical attributes such as Age, Blood Pressure, Cholesterol, and Na_to_K ratio. Built with Python, Scikit-Learn, and Decision Tree Classification.
 
 ## GitHub Topics
+machine-learning, drug-prediction, classification, decision-tree, python, scikit-learn, data-science, healthcare-analytics, eda, jupyter-notebook
